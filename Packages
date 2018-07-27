@@ -1,6 +1,6 @@
 Package: com.devtuanvu.repo
 Version: 1.0-0.6
-Section: Theme
+Section: Theme (SpringBoard)
 Maintainer: DevTuanVu
 Architecture: iphoneos-arm
 Filename: ./debs/Xiaomi8theme.deb
@@ -10,14 +10,4 @@ Description: Theme Xiaomi Mi8 của hãng Xiaomi cho iPhone/iPad/iPod IOS 7/8/9/
 Name: Xiaomi Theme
 Author: DevTuanVu
 
-Package: com.devtuanvu.repo
-Version: 1.0
-Section: Tweak
-Maintainer: DevTuanVu
-Architecture: iphoneos-arm
-Filename: ./debs/3edgy5me.deb
-Size: 259,926
-MD5sum: 372b82603f6d84f878340c3d5d4b3394
-Description: Tweak tạo viền thông báo như S8 được designs by DevTuanVu
-Name: 3Edgy5me
-Author: DevTuanVu
+
