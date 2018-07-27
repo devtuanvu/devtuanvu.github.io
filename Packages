@@ -1,11 +1,11 @@
-Package: com.devtuanvu.3edgy5m3_1.0-6_iphoneos-arm
+Package: com.devtuanvu.repo
 Version: 1.0
 Section: Tweak
 Maintainer: DevTuanVu
 Architecture: iphoneos-arm
-Filename: ./debs/vn.ftios.3edgy5me_1.0-6_iphoneos-arm.deb
+Filename: ./debs/3edgy5me.deb
 Size: 259,926
 MD5sum: 372b82603f6d84f878340c3d5d4b3394
 Description: DevTuanVu.com
 Name: 3Edgy5me
-Author: DevTuanVu
+Author: Ftios
