@@ -1,0 +1,11 @@
+Package: com.semirestore11_1.0.1_iphoneos-arm
+Version: 1.0
+Section: System
+Maintainer: DevTuanVu
+Architecture: iphoneos-arm
+Filename: ./debs/com.devtuanvu.semirestore11_1.0.1_iphoneos-arm.deb
+Size: 91,480
+MD5sum: EB396A59C8BB1BAEE7F042B141F1F28C
+Description: UnJailbreak IOS 11.1.x
+Name: DevTuanVu
+Author: DevTuanVu
