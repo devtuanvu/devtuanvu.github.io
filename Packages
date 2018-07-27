@@ -1,16 +1,4 @@
 Package: com.devtuanvu.repo
-Version: 1.0
-Section: Tweak
-Maintainer: DevTuanVu
-Architecture: iphoneos-arm
-Filename: ./debs/3edgy5me.deb
-Size: 259,926
-MD5sum: 372b82603f6d84f878340c3d5d4b3394
-Description: Tweak tạo viền thông báo như S8 được designs by DevTuanVu
-Name: 3Edgy5me
-Author: DevTuanVu
-
-Package: com.devtuanvu.repo
 Version: 1.0-0.6
 Section: Theme
 Maintainer: DevTuanVu
@@ -20,4 +8,16 @@ Size: 1,100,102
 MD5sum: 69820A616B91B2EF262372C0F9CA3442
 Description: Theme Xiaomi Mi8 của hãng Xiaomi cho iPhone/iPad/iPod IOS 7/8/9/10/11 được designs by DevTuanVu
 Name: Xiaomi Theme
+Author: DevTuanVu
+
+Package: com.devtuanvu.repo
+Version: 1.0
+Section: Tweak
+Maintainer: DevTuanVu
+Architecture: iphoneos-arm
+Filename: ./debs/3edgy5me.deb
+Size: 259,926
+MD5sum: 372b82603f6d84f878340c3d5d4b3394
+Description: Tweak tạo viền thông báo như S8 được designs by DevTuanVu
+Name: 3Edgy5me
 Author: DevTuanVu
