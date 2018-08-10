@@ -10,7 +10,7 @@ Description: Theme Xiaomi Mi8 của hãng Xiaomi cho iPhone/iPad/iPod IOS 7/8/9/
 Name: Xiaomi Theme
 Author: DevTuanVu
 
-Package: com.devtuanvu.sirimacos
+Package: com.devtuanvu.repo
 Version: 1.0.0
 Section: Tweaks
 Maintainer: DevTuanVu
@@ -22,3 +22,15 @@ Description: Make siri the same siri on mac os
 Name: SiriMacOS
 Author: DevTuanVu
 
+Package: com.devntnghia.arpscan
+Version: 1.8.1-1
+Section: Utilities
+Maintainer: NTNghia <hiimnghia@icloud.com>
+Depends: libpcap
+Architecture: iphoneos-arm
+Filename: ./debs/ArpScan.deb
+Size: 283492
+MD5sum: b2c3b1abd6b95d70973a578a76aba6fe
+Description: ArpScan cho iOS 10.3.x được mod lại bởi DevNTNghia. Người hiện đang là Admin trong nhóm Thủ Thuật Cydia và Jailbreak, Group Jailbreak (Chia sẻ niềm đam mê).
+Name: ArpScan Cho netKillUI
+Author: NTNghia <hiimnghia@icloud.com>
